@@ -1,0 +1,11 @@
+{
+  "name": "amplify-shadow-cljs",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "aws-amplify": "^4.3.30",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "shadow-cljs": "^2.19.8"
+  }
+}
